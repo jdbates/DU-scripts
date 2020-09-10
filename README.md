@@ -1,4 +1,4 @@
-# This repository contains a list of useful scripts and configuration files for Dual Universe
+# This repository contains a list of useful scripts and configuration files for Dual Universe (Work In Progress)
 
 # Stochasty's Baseline Autoconfiguration
 
